@@ -21,7 +21,7 @@ React Vite starter template
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-pnpx degit MagnumGoYB/vite-qwe your-project-name
+pnpm dlx degit MagnumGoYB/vite-qwe your-project-name
 cd your-project-name
 git init
 pnpm install # If you don't have pnpm installed, run: npm install -g pnpm
