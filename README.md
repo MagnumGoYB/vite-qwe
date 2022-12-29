@@ -1,11 +1,10 @@
-# Vite qwe
-
-React Vite starter template
+<h3 align='center'>Vite qwe</h3>
+<p align='center'>React Vite starter template</p>
 
 <br>
 
 <p align='center'>
-<a href="https://github.com/MagnumGoYB/vite-qwe/blob/main/README.md">English</a> | <b>简体中文</b>
+<b>English</b> | <a href="https://github.com/antfu/vitessehttps://github.com/MagnumGoYB/vite-qwe/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 ## Try it now!

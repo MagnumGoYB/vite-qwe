@@ -1,11 +1,10 @@
-# Vite qwe
-
-React Vite 启动器模板
+<h3 align='center'>Vite qwe</h3>
+<p align='center'>React Vite 启动器模板</p>
 
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitessehttps://github.com/MagnumGoYB/vite-qwe/blob/main/README.zh-CN.md">简体中文</a>
+<a href="https://github.com/MagnumGoYB/vite-qwe/blob/main/README.md">English</a> | <b>简体中文</b>
 </p>
 
 ## 现在可以试试!
