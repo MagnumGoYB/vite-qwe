@@ -5,9 +5,12 @@
   "scripts": {
     "build": "tsc && vite build",
     "dev": "vite",
+    "husky": "husky install || exit 0",
     "preinstall": "only-allow pnpm",
-    "postinstall": "husky install && pnpm pretty",
+    "postinstall": "pnpm pretty",
     "lint": "eslint --ext .ts,.tsx --fix --quiet ./src",
+    "pnpm:devPreinstall": "pnpm husky",
+    "prepare": "pnpm husky",
     "pretty": "pretty-quick && prettier-package-json --write",
     "preview": "vite preview"
   },
