@@ -7,10 +7,8 @@
     "dev": "vite",
     "husky": "husky install || exit 0",
     "preinstall": "only-allow pnpm",
-    "postinstall": "pnpm pretty",
+    "postinstall": "pnpm husky && pnpm pretty",
     "lint": "eslint --ext .ts,.tsx --fix --quiet ./src",
-    "pnpm:devPreinstall": "pnpm husky",
-    "prepare": "pnpm husky",
     "pretty": "pretty-quick && prettier-package-json --write",
     "preview": "vite preview"
   },
