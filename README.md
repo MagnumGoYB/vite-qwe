@@ -4,7 +4,7 @@
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitessehttps://github.com/MagnumGoYB/vite-qwe/blob/main/README.zh-CN.md">简体中文</a>
+<b>English</b> | <a href="https://github.com/MagnumGoYB/vite-qwe/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 ## Try it now!
