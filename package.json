@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
-    "dev": "vite",
+    "dev": "vite --port 3333 --open",
     "husky": "husky install || exit 0",
     "preinstall": "only-allow pnpm",
     "postinstall": "pnpm husky && pnpm pretty",
