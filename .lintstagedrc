@@ -1,0 +1,4 @@
+{
+  "*": "pnpm pretty",
+  "*.ts?(x)": "pnpm lint"
+}
